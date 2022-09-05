@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="newtourTest.newTours-20220728164630" tests="3" file="newtourTest.py" time="26.856" timestamp="2022-07-28T16:46:57" failures="0" errors="0" skipped="0">
+	<testcase classname="newtourTest.newTours" name="test_dropdowns" time="15.146" timestamp="2022-07-28T16:46:45" file="newtourTest.py" line="25">
+		<system-out><![CDATA[Assert 1 is passed ==> TestCase Flight
+Assert 2 is passed ==> TestCase Flight
+]]></system-out>
+	</testcase>
+	<testcase classname="newtourTest.newTours" name="test_login" time="5.543" timestamp="2022-07-28T16:46:51" file="newtourTest.py" line="36">
+		<system-out><![CDATA[Assert 1 is passed ==> TestCase Login
+Assert 2 is passed ==> TestCase Login
+]]></system-out>
+	</testcase>
+	<testcase classname="newtourTest.newTours" name="test_login_by_tabs" time="6.167" timestamp="2022-07-28T16:46:57" file="newtourTest.py" line="40"/>
+</testsuite>
